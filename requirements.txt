@@ -1,0 +1,4 @@
+segyio
+pandas
+matplotlib.pyplot
+numpy
