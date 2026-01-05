@@ -1,4 +1,14 @@
+streamlit
+torch
+torch-geometric
+opencv-python
+networkx
+plotly
+fpdf
+matplotlib
+scikit-image
+scipy
+streamlit-image-comparison
 segyio
-pandas
-matplotlib.pyplot
 numpy
+pandas
