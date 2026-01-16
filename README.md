@@ -90,3 +90,5 @@ We employ a three-pillared validation strategy:
 git clone [https://github.com/yourusername/protean-geo-analytics.git](https://github.com/yourusername/protean-geo-analytics.git)
 cd protean-geo-analytics
 pip install -r requirements.txt
+streamlit run app.py
+
