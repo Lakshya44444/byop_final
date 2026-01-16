@@ -85,10 +85,11 @@ We employ a three-pillared validation strategy:
 * Python 3.8+
 * CUDA-enabled GPU (recommended for training)
 
-### 1. Installation
+### 1. Run 
 ```bash
 git clone [https://github.com/yourusername/protean-geo-analytics.git](https://github.com/yourusername/protean-geo-analytics.git)
 cd protean-geo-analytics
 pip install -r requirements.txt
 streamlit run app.py
+
 
